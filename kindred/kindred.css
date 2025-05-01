@@ -1,0 +1,18 @@
+.system {
+	background-color:#f0f0f0; 
+	color: black; 
+	padding: 1rem; 
+}
+
+
+.man {
+	background-color:#e9fffc; 
+	color: black; 
+	padding: 1rem; 
+}
+
+.woman {
+	background-color:#ffe9ec; 
+	color: black; 
+	padding: 1rem
+}
